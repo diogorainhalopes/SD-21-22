@@ -1,6 +1,6 @@
 # Turmas
 
-Distributed Systems Project 2021/2022
+Distributed Systems Project 2021/2022 - Grade 20
 
 ## Authors
 
