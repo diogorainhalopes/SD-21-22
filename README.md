@@ -6,12 +6,6 @@ Distributed Systems Project 2021/2022 - Grade: 20
 
 **Group G51**
 
-### Code Identification
-
-In all source files (namely in the *groupId*s of the POMs), replace __GXX__ with your group identifier. The group
-identifier consists of a G and the group number - always two digits. This change is important for code dependency
-management, to ensure your code runs using the correct components and not someone else's.
-
 ### Team Members
 
 
